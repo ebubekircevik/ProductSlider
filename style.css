@@ -1,0 +1,234 @@
+@media screen and (min-width: 1366px){ 
+    .content-slider li {
+        background-color: #FFF;
+        text-align: center;
+        color: #FFF;
+    }
+    
+    .content-slider h3 {
+        margin: 0;
+        padding: 70px 0;
+    }
+    
+    .productWindow{
+        background-color: rgba(168, 172, 168, 0.4);           
+        height: 700px;
+        width: 550px;
+    }
+    
+    .divImgProduct {
+        text-align: center;
+        height: 300px;
+        margin-bottom: 10px;
+    }
+    
+    
+    
+    .divProductName {
+        color: black;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: bold;  
+        min-height: 60px;       
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-bottom: 10px;
+    }
+    
+    .divParams{
+        color: gray;
+        margin-bottom: 10px;
+        min-height: 20px; 
+    }
+    .divPriceText{
+        min-height: 50px;
+    }
+    
+    .image {
+        position: relative;
+        
+        height: 100%;
+    
+    }
+    
+    .divPriceText {
+        margin-right: 5px;
+        color: black;
+        margin-bottom: 10px;
+        font-size: x-large;
+        font-weight: bold;
+    }
+    .divOldPriceText{
+        color:gray;
+        text-decoration: line-through;
+        margin-bottom: 10px;
+        font-size: x-large;
+        font-weight: bold;
+    }
+    
+    .divBasePrice{
+        color: gray;
+        margin-bottom: 10px;
+    }
+    .divBottomSpace{
+        height: 10px;
+    }
+    .divImgProduct{
+        position: relative;
+        width: 585px;
+        height: 400px;
+        
+    }
+    .divSale{
+        position: absolute;
+        background-color: red;
+        font-size: 50px;
+        top: 30px;
+        left: 0;
+        width: 120px;
+        height: 80px;
+        
+    }
+    .likeCount{
+        position: absolute;
+        background-color: white;
+        font-size: 50px;
+        color:red;
+        top: 120px;
+        left: 0;
+        width: 120px;
+        height: 80px; 
+        
+    }
+    .isNew{
+        position: absolute;
+        background-color: black;
+        font-size: 50px;
+        color:white;
+        
+        top: 210px;           
+        left: 0;
+        width: 120px;
+        height: 80px;            
+    }
+    .section{
+        margin-top: 70px; 
+    }
+}
+@media screen and (min-width: 960px) and (max-width: 1365px){ 
+    .content-slider li {
+        background-color: #FFF;
+        text-align: center;
+        color: #FFF;
+    }   
+
+    .content-slider h3 {
+        margin: 0;
+        padding: 70px 0;
+    }
+    
+    .productWindow{
+        background-color: rgba(168, 172, 168, 0.4);           
+        height: 700px;
+        width: 550px;
+    }
+    
+    .divImgProduct {
+        text-align: center;
+        height: 300px;
+        margin-bottom: 10px;
+    }
+    
+    
+    
+    .divProductName {
+        color: black;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: bold;  
+        min-height: 60px;       
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-bottom: 10px;
+    }
+    
+    .divParams{
+        color: gray;
+        margin-bottom: 10px;
+        min-height: 20px; 
+    }
+    .divPriceText{
+        min-height: 50px;
+    }
+    
+    .image {
+        position: relative;
+        
+        height: 100%;
+    
+    }
+    
+    .divPriceText {
+        margin-right: 5px;
+        color: black;
+        margin-bottom: 10px;
+        font-size: x-large;
+        font-weight: bold;
+    }
+    .divOldPriceText{
+        color:gray;
+        text-decoration: line-through;
+        margin-bottom: 10px;
+        font-size: x-large;
+        font-weight: bold;
+    }
+    
+    .divBasePrice{
+        color: gray;
+        margin-bottom: 10px;
+    }
+    .divBottomSpace{
+        height: 10px;
+    }
+    .divImgProduct{
+        position: relative;
+        width: 585px;
+        height: 400px;
+        
+    }
+    .divSale{
+        position: absolute;
+        background-color: red;
+        font-size: 50px;
+        top: 30px;
+        left: 0;
+        width: 120px;
+        height: 80px;
+        
+    }
+    .likeCount{
+        position: absolute;
+        background-color: white;
+        font-size: 50px;
+        color:red;
+        top: 120px;
+        left: 0;
+        width: 120px;
+        height: 80px; 
+        
+    }
+    .isNew{
+        position: absolute;
+        background-color: black;
+        font-size: 50px;
+        color:white;
+        
+        top: 210px;           
+        left: 0;
+        width: 120px;
+        height: 80px;            
+    }
+    .section{
+        margin-top: 70px; 
+    }
+}
+
+
